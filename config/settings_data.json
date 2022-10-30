@@ -42,7 +42,7 @@
     "footer_linklist": "footer",
     "copy_right": "© 2016 | All Rights Reserved.  <a href=\"https:\/\/wpfreelance.in\" target=\"_blank\">WPFreelance<\/a>",
     "cart_notes_enable": true,
-    "cart_vendor_enable": false,
+    "cart_vendor_enable": true,
     "ajax_cart_method": "drawer",
     "email_link": "#",
     "social_twitter_link": "#",
